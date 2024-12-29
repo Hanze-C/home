@@ -2,36 +2,71 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://blog.hanze.icu/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.hanze.icu/"
   },
-  {
+    {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://nav.hanze.icu/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "思维导图",
+    "link": "https://map.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "在线画板",
+    "link": "https://draw.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "学习时间",
+    "link": "https://study.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "MikuTap",
+    "link": "https://tap.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "计算器",
+    "link": "https://calcium.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "小鲨鱼",
+    "link": "https://warma.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "人生重开",
+    "link": "https://life.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "哔咔哔咔",
+    "link": "https://pica.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "PixivNow",
+    "link": "https://pixiv.hanze.icu/"
   }
 ]
