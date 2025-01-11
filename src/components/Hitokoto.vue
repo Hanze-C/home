@@ -40,8 +40,8 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
-  from: "無名",
+  text: "用代码表达言语的魅力，用代码书写山河的壮丽。",
+  from: "「一言开发者中心」",
 });
 
 // 获取一言数据
