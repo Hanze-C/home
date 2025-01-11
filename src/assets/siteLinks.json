@@ -25,12 +25,12 @@
     "link": "https://status.hanze.icu/"
   },
   {
-    "icon": "Book",
+    "icon": "Sitemap",
     "name": "思维导图",
     "link": "https://map.hanze.icu/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "PaintBrush",
     "name": "在线画板",
     "link": "https://draw.hanze.icu/"
   },
@@ -75,12 +75,12 @@
     "link": "https://dns.hanze.icu/"
   },
   {
-    "icon": "Copyright",
+    "icon": "CopyrightRegular",
     "name": "MIT许可",
     "link": "https://mit.hanze.icu/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "CommentRegular",
     "name": "社区",
     "link": "https://club.hanze.icu/"
   },
@@ -90,7 +90,7 @@
     "link": "https://warma.hanze.icu/"
   },
   {
-    "icon": "Gamepad",
+    "icon": "SyncAlt",
     "name": "人生重开",
     "link": "https://life.hanze.icu/"
   },
