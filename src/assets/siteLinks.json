@@ -35,6 +35,16 @@
     "link": "https://draw.hanze.icu/"
   },
   {
+    "icon": "CompactDisc",
+    "name": "mmPlayer",
+    "link": "https://mm.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "工具箱",
+    "link": "https://tool.hanze.icu/"
+  },
+  {
     "icon": "Book",
     "name": "学习时间",
     "link": "https://study.hanze.icu/"
@@ -48,6 +58,26 @@
     "icon": "LaptopCode",
     "name": "计算器",
     "link": "https://calcium.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "TG频道",
+    "link": "https://tg.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "短链发行",
+    "link": "https://link.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "MIT许可",
+    "link": "https://mit.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "社区",
+    "link": "https://club.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
