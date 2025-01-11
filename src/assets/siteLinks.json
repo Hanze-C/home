@@ -71,6 +71,11 @@
   },
   {
     "icon": "LaptopCode",
+    "name": "DNS查询",
+    "link": "https://dns.hanze.icu/"
+  },
+  {
+    "icon": "LaptopCode",
     "name": "MIT许可",
     "link": "https://mit.hanze.icu/"
   },
