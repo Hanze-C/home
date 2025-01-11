@@ -58,8 +58,8 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+    hitokotoData.text = "用代码表达言语的魅力，用代码书写山河的壮丽。";
+    hitokotoData.from = "「一言开发者中心」";
   }
 };
 
