@@ -41,7 +41,7 @@ const openMusicShow = ref(false);
 // 一言数据
 const hitokotoData = reactive({
   text: "用代码表达言语的魅力，用代码书写山河的壮丽。",
-  from: "「一言开发者中心」",
+  from: "一言开发者中心",
 });
 
 // 获取一言数据
@@ -59,7 +59,7 @@ const getHitokotoData = async () => {
       }),
     });
     hitokotoData.text = "用代码表达言语的魅力，用代码书写山河的壮丽。";
-    hitokotoData.from = "「一言开发者中心」";
+    hitokotoData.from = "一言开发者中心";
   }
 };
 
