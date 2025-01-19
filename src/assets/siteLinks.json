@@ -75,6 +75,11 @@
     "link": "https://link.hanze.icu/"
   },
   {
+    "icon": "Unlink",
+    "name": "长链发行",
+    "link": "https://map.hanze.icu/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "DNS查询",
     "link": "https://dns.hanze.icu/"
