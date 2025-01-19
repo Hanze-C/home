@@ -25,6 +25,11 @@
     "link": "https://status.hanze.icu/"
   },
   {
+    "icon": "Robot",
+    "name": "AI助手",
+    "link": "https://ai.hanze.icu/"
+  },
+  {
     "icon": "Sitemap",
     "name": "思维导图",
     "link": "https://map.hanze.icu/"
