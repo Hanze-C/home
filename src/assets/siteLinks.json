@@ -51,8 +51,13 @@
   },
   {
     "icon": "GraduationCap",
-    "name": "学习时间",
+    "name": "和MIKU学习",
     "link": "https://study.hanze.icu/"
+  },
+  {
+    "icon": "GraduationCap",
+    "name": "和天依学习",
+    "link": "https://tianyi.hanze.icu/"
   },
   {
     "icon": "Gamepad",
@@ -105,6 +110,11 @@
     "link": "https://life.hanze.icu/"
   },
   {
+    "icon": "FileImage",
+    "name": "BA标志生成",
+    "link": "https://life.hanze.icu/"
+  },
+  {
     "icon": "Book",
     "name": "哔咔哔咔",
     "link": "https://pica.hanze.icu/"
@@ -113,5 +123,10 @@
     "icon": "Book",
     "name": "PixivNow",
     "link": "https://pixiv.hanze.icu/"
+  },
+  {
+    "icon": "Server",
+    "name": "CORS代理",
+    "link": "https://cors.hanze.icu/"
   }
 ]
