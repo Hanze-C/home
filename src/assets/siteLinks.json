@@ -25,6 +25,11 @@
     "link": "https://status.hanze.icu/"
   },
   {
+    "icon": "Envelope",
+    "name": "邮箱",
+    "link": "https://mail.hanze.icu/"
+  },
+  {
     "icon": "Robot",
     "name": "AI助手",
     "link": "https://ai.hanze.icu/"
@@ -113,6 +118,11 @@
     "icon": "FileImage",
     "name": "BA标志生成",
     "link": "https://ba-api.hanze.icu/"
+  },
+  {
+    "icon": "FileImage",
+    "name": "PH标志生成",
+    "link": "https://ph.hanze.icu/"
   },
   {
     "icon": "Book",
