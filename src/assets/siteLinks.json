@@ -115,6 +115,21 @@
     "link": "https://life.hanze.icu/"
   },
   {
+    "icon": "ImagesRegular",
+    "name": "封面制作",
+    "link": "https://cover.hanze.icu/"
+  },
+  {
+    "icon": "ImageRegular",
+    "name": "简易封面",
+    "link": "https://mini-cover.hanze.icu/"
+  },
+  {
+    "icon": "Icons",
+    "name": "图标制作",
+    "link": "https://icon.hanze.icu/"
+  },
+  {
     "icon": "FileImage",
     "name": "BA标志生成",
     "link": "https://ba-api.hanze.icu/"

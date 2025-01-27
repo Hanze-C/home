@@ -33,7 +33,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, Envelope, FileImage, CompactDisc, Cloud, Server, Robot, Unlink, Calculator, Hammer, GraduationCap, CommentRegular, SyncAlt, Compass, Gamepad, Book, PaintBrush, CopyrightRegular, Fire, LaptopCode, TelegramPlane, Sitemap } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, Envelope, ImageRegular, ImagesRegular, Icons, FileImage, CompactDisc, Cloud, Server, Robot, Unlink, Calculator, Hammer, GraduationCap, CommentRegular, SyncAlt, Compass, Gamepad, Book, PaintBrush, CopyrightRegular, Fire, LaptopCode, TelegramPlane, Sitemap } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -54,6 +54,9 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
+  ImageRegular,
+  ImagesRegular,
+  Icons,
   FileImage,
   Cloud,
   Envelope,
