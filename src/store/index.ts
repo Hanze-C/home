@@ -33,10 +33,10 @@ export const storeState: MainState = {
   playerLrcShow: true, // 【开关】是否显示底栏歌词
   footerBlur: true, // 【开关】底栏模糊
   footerProgressBar: true, // 【开关】是否显示底栏进度条
-  playerAutoplay: true, // 【开关】是否自动播放
+  playerAutoplay: false, // 【开关】是否自动播放
   playerLoop: "all", // 【开关】循环播放 "all", "one", "none"
   playerOrder: "random", // 【开关】循环顺序 "list", "random"
-  webSpeech: true, // 【开关】网页语音交互总开关（包含播报歌名功能）
+  webSpeech: false, // 【开关】网页语音交互总开关（包含播报歌名功能）
   playerSpeechName: true, // 【开关】播报歌名
   playerTrLrc: false, // 【开关】逐行歌词调用翻译歌词开关
   playerDWRCShow: true, // 【开关】逐字歌词解析总开关

@@ -39,8 +39,8 @@ const isLoading = ref(false);
 // 自定义壁纸
 // 酪灰的小批注：这里增加了从配置文件读取壁纸数的功能，使得在增加壁纸时不需要重新编译项目，只需修改这个 json 文件内的值
 // 设置一个默认值，防止在无法加载 JSON 文件时壁纸失效。应该尽量保证壁纸数始终不小于这个默认值
-let bgImageCount = 10; // PC 版壁纸
-let bgImageCountP = 2; // 移动版壁纸
+let bgImageCount = 3; // PC 版壁纸
+let bgImageCountP = 1; // 移动版壁纸
 let bgRandom = 0;
 let bgRandomp = 0;
 let confUrlS = null;
@@ -100,24 +100,24 @@ const getLocalBgUrl = async (deviceType) => {
   // 如果不需要区分设备类型，则只需要保留这一行 bgUrl.value = `/images/background${bgRandom}.jpg`;
   if (deviceType === 'mobile') {
     if (key) {
-      const bgUrlS = `/images/phone/backgroundphone${bgRandomp}.jpg`;
+      const bgUrlS = `/images/phone/backgroundphone${bgRandomp}.png`;
       return await gasC(bgUrlS, key);
     } else {
-      return `/images/phone/backgroundphone${bgRandomp}.jpg`;
+      return `/images/phone/backgroundphone${bgRandomp}.png`;
     };
   } else if (deviceType === 'tablet' || deviceType === 'pc') {
     if (key) {
-      const bgUrlS = `/images/background${bgRandom}.jpg`;
+      const bgUrlS = `/images/background${bgRandom}.png`;
       return await gasC(bgUrlS, key);
     } else {
-      return `/images/background${bgRandom}.jpg`;
+      return `/images/background${bgRandom}.png`;
     };
   } else {
     if (key) {
-      const bgUrlS = `/images/background${bgRandom}.jpg`;
+      const bgUrlS = `/images/background${bgRandom}.png`;
       return await gasC(bgUrlS, key);
     } else {
-      return `/images/background${bgRandom}.jpg`;
+      return `/images/background${bgRandom}.png`;
     };
   };
 };
@@ -135,11 +135,11 @@ const changeBg = async (type) => {
       if (type == 0) {
         newBgUrl = await getLocalBgUrl(deviceType);
       } else if (type == 1) {
-        newBgUrl = "https://api.dujin.org/bing/1920.php";
+        newBgUrl = "https://api-bg-bing.hanze.icu/";
       } else if (type == 2) {
-        newBgUrl = "https://api.vvhan.com/api/wallpaper/views";
+        newBgUrl = "https://api-random.hanze.icu/api";
       } else if (type == 3) {
-        newBgUrl = "https://api.vvhan.com/api/wallpaper/acg";
+        newBgUrl = "https://pixiv.hanze.icu/api/illust/random";
       };
       const result = await preloadImage(newBgUrl);
       if (!result.ok) {

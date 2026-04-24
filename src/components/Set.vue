@@ -6,8 +6,8 @@
           <el-radio-group v-model="coverType" text-color="#ffffff" @change="radioChange">
             <el-radio :value="0" size="large" border>默认壁纸</el-radio>
             <el-radio :value="1" size="large" border>每日一图</el-radio>
-            <el-radio :value="2" size="large" border>随机风景</el-radio>
-            <el-radio :value="3" size="large" border>随机动漫</el-radio>
+            <el-radio :value="2" size="large" border>铁路列车</el-radio>
+            <el-radio :value="3" size="large" border>蓝P插画</el-radio>
           </el-radio-group>
         </div>
       </el-collapse-item>

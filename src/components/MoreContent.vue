@@ -1,7 +1,7 @@
 <template>
   <div class="more-content">
     <span class="greeting">
-      您可在此编写任意内容
+      长风破浪会有时，直挂云帆济沧海。
     </span>
   </div>
 </template>
