@@ -387,7 +387,7 @@ const fetchDWRC = async (dwrcUrl: string) => {
   if (store.playerDWRCATDB) {
     const songUrlInfUrl = store.playerDWRCATDBF
       ? {
-        netease: `https://ghfast.top/https://raw.githubusercontent.com/amll-dev/amll-ttml-db/main/ncm-lyrics/${songId}.yrc`,
+        netease: `https://ghfast. top/https://raw.githubusercontent.com/amll-dev/amll-ttml-db/main/ncm-lyrics/${songId}.yrc`,
         tencent: `https://ghfast.top/https://raw.githubusercontent.com/amll-dev/amll-ttml-db/main/qq-lyrics/${songId}.qrc`,
       }
       : {

@@ -5,16 +5,6 @@
     "link": "https://blog.hanze.icu/"
   },
   {
-    "icon": "PenSquare",
-    "name": "空间",
-    "link": "https://space.hanze.icu/"
-  },
-    {
-    "icon": "BellRegular",
-    "name": "动态",
-    "link": "https://life.hanze.icu/"
-  },
-  {
     "icon": "CameraRetro",
     "name": "相册",
     "link": "https://gallery.hanze.icu/"
@@ -42,21 +32,16 @@
   {
     "icon": "Book",
     "name": "哔咔",
-    "link": "https://pica.hanze.icu/"
+    "link": "https://pica.hanze.eu.org/"
   },
   {
     "icon": "PaintBrush",
     "name": "蓝P",
-    "link": "https://pixiv.hanze.icu/"
+    "link": "https://pixiv.hanze.eu.org/"
   },
   {
     "icon": "LaptopCode",
     "name": "监测",
     "link": "https://status.hanze.icu/"
-  },
-  {
-    "icon": "Eye",
-    "name": "视奸",
-    "link": "https://sleep.hanze.icu/"
   }
 ]

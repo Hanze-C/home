@@ -2,8 +2,14 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
+    "tip": "同性程序员交友平台(",
     "url": "https://github.com/Hanze-C"
+  },
+  {
+    "name": "Steam",
+    "icon": "/images/icon/steam.png",
+    "tip": "思题目，你最好的学习软件",
+    "url": "https://store.steampowered.com/app/123456/"
   },
   {
     "name": "BiliBili",
@@ -15,7 +21,7 @@
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1522829644"
+    "url": "https://qm.qq.com/q/7fE6Vypup2"
   },
   {
     "name": "Email",
@@ -26,13 +32,13 @@
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
+    "tip": "ERR_CONNECTION_RESET",
     "url": "https://twitter.com/C_Hanze_X"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "ERR_CONNECTION_TIMED_OUT",
     "url": "https://t.me/C_Hanze"
   }
 ]

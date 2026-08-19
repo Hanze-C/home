@@ -140,7 +140,7 @@ const changeBg = async (type) => {
       } else if (type == 2) {
         newBgUrl = "https://api-random.hanze.icu/api";
       } else if (type == 3) {
-        newBgUrl = "https://pixiv.hanze.icu/api/illust/random";
+        newBgUrl = "https://pixiv.hanze.eu.org/api/illust/random";
       };
       const result = await preloadImage(newBgUrl);
       if (!result.ok) {

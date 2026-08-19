@@ -20,7 +20,7 @@
     "VITE_SITE_ICP": "",
     "VITE_SITE_MPS": "",
     "VITE_SITE_MICP": "萌ICP备20244038号",
-    "VITE_SONG_API": "https://metingapi.nanorocky.top/",
+    "VITE_SONG_API": "https://api-meting.hanze.eu.org/api/",
     "VITE_SONG_SERVER": "netease",
     "VITE_SONG_SERVER_SECOND": "tencent",
     "VITE_SONG_TYPE": "playlist",
